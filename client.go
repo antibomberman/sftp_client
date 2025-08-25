@@ -3,7 +3,6 @@ package sftp_client
 import (
 	"fmt"
 	"io"
-	"log"
 	"os"
 	"path/filepath"
 
